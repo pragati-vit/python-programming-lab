@@ -1,3 +1,4 @@
+#pragati kate=11810418
 def Arm(x):
    t=x
    sum1=0
