@@ -1,3 +1,4 @@
+#pragati kate=11810418
 num=int(input("Enter a number:"))
 factorial=1
 if num<0:
