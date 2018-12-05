@@ -1,3 +1,4 @@
+pragati kate 11810418
 import random
 from random import randint as rt
 out=0
