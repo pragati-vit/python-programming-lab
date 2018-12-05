@@ -1,6 +1,6 @@
-
-
-from  easygui import *
+#pragati Vilas Kate 
+gr no.11810418
+from easygui import *
 import sys
 name=enterbox("Please enter your name")
 name1=str(name)
