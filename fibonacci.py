@@ -1,3 +1,5 @@
+#pragati Vilas Kate
+gr. no. 11810418
 n terms=10
 #n terms=int(input("How many terms?"))
 #first two terms
